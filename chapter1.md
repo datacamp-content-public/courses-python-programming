@@ -55,7 +55,7 @@ xp: 100
 print() is a output statement in python. To display message you can use print("message") 
 
 `@instructions`
-display welcome message by using print()
+display **welcome** message by using print()
 
 `@hint`
 hello have typed welcome in " "
