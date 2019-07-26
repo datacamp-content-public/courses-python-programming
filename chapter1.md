@@ -67,7 +67,7 @@ print("--")
 
 `@sample_code`
 ```{python}
-
+print("--")
 ```
 
 `@solution`
