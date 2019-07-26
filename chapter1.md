@@ -41,3 +41,41 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: d98503b49c
+xp: 100
+```
+
+print() is a output statement in python. To display message you can use print("message") 
+
+`@instructions`
+display welcome message by using print()
+
+`@hint`
+hello have typed welcome in " "
+
+`@pre_exercise_code`
+```{python}
+print("--")
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+print("welcome")
+```
+
+`@sct`
+```{python}
+
+```
